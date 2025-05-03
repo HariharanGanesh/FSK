@@ -1,5 +1,4 @@
 # FSK
-## AADHITHYA SV (212223060001)
 # Aim
 Write a Python program for the modulation and demodulation of FSK.
 # Tools required
